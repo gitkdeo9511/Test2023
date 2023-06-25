@@ -1,0 +1,86 @@
+2023-06-24 15:29:32.8550 Info Message Template Auto Format enabled
+2023-06-24 15:29:33.1592 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-24 15:29:33.1919 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-06-24 15:29:33.2973 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\kdeok\Documents\Git\Test2023\Solucion\Test2023\ControlUsuarios.WebApi\bin\Debug\netcoreapp3.1\nlog.config
+2023-06-24 15:37:48.7677 Info Message Template Auto Format enabled
+2023-06-24 15:37:49.2262 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-24 15:37:49.2951 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-06-24 15:37:49.6981 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\kdeok\Documents\Git\Test2023\Solucion\Test2023\ControlUsuarios.WebApi\bin\Debug\netcoreapp3.1\nlog.config
+2023-06-24 15:40:51.1850 Info Message Template Auto Format enabled
+2023-06-24 15:40:53.1452 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-24 15:40:53.2524 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-06-24 15:40:53.5721 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\kdeok\Documents\Git\Test2023\Solucion\Test2023\ControlUsuarios.WebApi\bin\Debug\netcoreapp3.1\nlog.config
+2023-06-24 15:43:02.4529 Info Message Template Auto Format enabled
+2023-06-24 15:43:02.7503 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-24 15:43:02.8735 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-06-24 15:43:03.0062 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\kdeok\Documents\Git\Test2023\Solucion\Test2023\ControlUsuarios.WebApi\bin\Debug\netcoreapp3.1\nlog.config
+2023-06-24 15:48:00.0310 Info Message Template Auto Format enabled
+2023-06-24 15:48:02.9037 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-24 15:48:02.9424 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-06-24 15:48:03.1199 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\kdeok\Documents\Git\Test2023\Solucion\Test2023\ControlUsuarios.WebApi\bin\Debug\netcoreapp3.1\nlog.config
+2023-06-24 16:24:36.9500 Info Message Template Auto Format enabled
+2023-06-24 16:24:37.1342 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-24 16:24:37.1580 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-06-24 16:24:37.2913 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\kdeok\Documents\Git\Test2023\Solucion\Test2023\ControlUsuarios.WebApi\bin\Debug\netcoreapp3.1\nlog.config
+2023-06-24 16:43:05.8468 Info Message Template Auto Format enabled
+2023-06-24 16:43:06.9385 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-24 16:43:06.9725 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-06-24 16:43:07.1180 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\kdeok\Documents\Git\Test2023\Solucion\Test2023\ControlUsuarios.WebApi\bin\Debug\netcoreapp3.1\nlog.config
+2023-06-24 16:48:06.7504 Info Message Template Auto Format enabled
+2023-06-24 16:48:06.9228 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-24 16:48:06.9527 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-06-24 16:48:07.0785 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\kdeok\Documents\Git\Test2023\Solucion\Test2023\ControlUsuarios.WebApi\bin\Debug\netcoreapp3.1\nlog.config
+2023-06-24 17:01:28.6015 Info Message Template Auto Format enabled
+2023-06-24 17:01:29.7274 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-24 17:01:29.7731 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-06-24 17:01:29.9310 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\kdeok\Documents\Git\Test2023\Solucion\Test2023\ControlUsuarios.WebApi\bin\Debug\netcoreapp3.1\nlog.config
+2023-06-24 17:07:26.7105 Info Message Template Auto Format enabled
+2023-06-24 17:07:27.7099 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-24 17:07:27.7351 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-06-24 17:07:27.8310 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\kdeok\Documents\Git\Test2023\Solucion\Test2023\ControlUsuarios.WebApi\bin\Debug\netcoreapp3.1\nlog.config
+2023-06-24 17:28:27.3922 Info Message Template Auto Format enabled
+2023-06-24 17:28:28.0492 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-24 17:28:28.1257 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-06-24 17:28:28.3266 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\kdeok\Documents\Git\Test2023\Solucion\Test2023\ControlUsuarios.WebApi\bin\Debug\netcoreapp3.1\nlog.config
+2023-06-24 17:30:08.3268 Info Message Template Auto Format enabled
+2023-06-24 17:30:09.2766 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-24 17:30:09.3043 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-06-24 17:30:09.4492 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\kdeok\Documents\Git\Test2023\Solucion\Test2023\ControlUsuarios.WebApi\bin\Debug\netcoreapp3.1\nlog.config
+2023-06-24 17:57:34.9817 Info Message Template Auto Format enabled
+2023-06-24 17:57:35.3804 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-24 17:57:35.4188 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-06-24 17:57:35.6064 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\kdeok\Documents\Git\Test2023\Solucion\Test2023\ControlUsuarios.WebApi\bin\Debug\netcoreapp3.1\nlog.config
+2023-06-24 18:26:42.3123 Info Message Template Auto Format enabled
+2023-06-24 18:26:42.5747 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-24 18:26:42.5995 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-06-24 18:26:42.6717 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\kdeok\Documents\Git\Test2023\Solucion\Test2023\ControlUsuarios.WebApi\bin\Debug\netcoreapp3.1\nlog.config
+2023-06-24 18:29:56.0934 Info Message Template Auto Format enabled
+2023-06-24 18:29:56.2663 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-24 18:29:56.2877 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-06-24 18:29:56.3598 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\kdeok\Documents\Git\Test2023\Solucion\Test2023\ControlUsuarios.WebApi\bin\Debug\netcoreapp3.1\nlog.config
+2023-06-25 10:21:20.5770 Info Message Template Auto Format enabled
+2023-06-25 10:21:20.9010 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-25 10:21:20.9647 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-06-25 10:21:21.0849 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\kdeok\Documents\Git\Test2023\Solucion\Test2023\ControlUsuarios.WebApi\bin\Debug\netcoreapp3.1\nlog.config
+2023-06-25 10:35:31.7216 Info Message Template Auto Format enabled
+2023-06-25 10:35:32.0838 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-25 10:35:32.2355 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\kdeok\Documents\Git\Test2023\Solucion\Test2023\ControlUsuarios.WebApi\bin\Debug\netcoreapp3.1\nlog.config
+2023-06-25 10:41:26.1818 Info Message Template Auto Format enabled
+2023-06-25 10:41:26.4300 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-25 10:41:26.4506 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-06-25 10:41:26.6012 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\kdeok\Documents\Git\Test2023\Solucion\Test2023\ControlUsuarios.WebApi\bin\Debug\netcoreapp3.1\nlog.config
+2023-06-25 10:43:41.0510 Info Message Template Auto Format enabled
+2023-06-25 10:43:41.6825 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-25 10:43:41.7126 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-06-25 10:43:41.8728 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\kdeok\Documents\Git\Test2023\Solucion\Test2023\ControlUsuarios.WebApi\bin\Debug\netcoreapp3.1\nlog.config
+2023-06-25 14:15:39.7426 Info Message Template Auto Format enabled
+2023-06-25 14:15:40.6856 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-25 14:15:40.7124 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-06-25 14:22:41.0102 Info Message Template Auto Format enabled
+2023-06-25 14:22:41.9828 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-25 14:22:43.0803 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-06-25 14:22:43.3894 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\kdeok\Documents\Git\Test2023\Solucion\Test2023\ControlUsuarios.WebApi\bin\Debug\netcoreapp3.1\nlog.config
+2023-06-25 14:25:34.6384 Info Message Template Auto Format enabled
+2023-06-25 14:25:34.8785 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2023-06-25 14:25:34.9176 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2023-06-25 14:25:40.2437 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\kdeok\Documents\Git\Test2023\Solucion\Test2023\ControlUsuarios.WebApi\bin\Debug\netcoreapp3.1\nlog.config
