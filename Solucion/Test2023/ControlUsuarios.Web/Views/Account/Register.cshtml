@@ -1,0 +1,29 @@
+@model ControlUsuarios.Web.Models.RegisterVm
+
+@{
+    Layout = "_Layout";
+}
+
+<form method="POST">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group">
+                <label asp-for="UserName">Usuario</label>
+                <input type="text" class="form-control" asp-for="UserName" placeholder="Usuario" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Password">Password</label>
+                <input class="form-control" asp-for="Password" placeholder="Password" type="password" />
+            </div>
+            <div class="form-group">
+                <label asp-for="EmailAddress">EmailAddress</label>
+                <input type="text" class="form-control" asp-for="EmailAddress" placeholder="Email Address" />
+            </div>
+            <div class="form-group">
+                <label asp-for="RolRefId">Rol</label>
+                <select asp-for="RolRefId" asp-items="ViewBag.Roles"></select>
+            </div>
+            <button class="btn btn-primary" type="submit">Registrar</button>
+        </div>
+    </div>
+</form>

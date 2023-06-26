@@ -48,7 +48,7 @@ namespace ControlUsuarios.WebApi.Controllers
 
         }
 
-        [Authorize]
+        [AllowAnonymous]
         [HttpPost]
         public IActionResult Registrar([FromBody] Usuario user)
         {

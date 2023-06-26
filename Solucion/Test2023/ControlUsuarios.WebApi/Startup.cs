@@ -37,6 +37,7 @@ namespace ControlUsuarios.WebApi
             services.AddTokenAuthentication(Configuration);
             services.AddScoped<IUserService, UserService>();
             services.AddScoped<ISessionService, SessionService>();
+            services.AddScoped<IRolService, RolService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

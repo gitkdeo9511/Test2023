@@ -1,0 +1,27 @@
+@model System.Collections.Generic.List<ControlUsuarios.Web.Models.Entities.CookieUser>
+
+<table>
+    <tr>
+        <td>
+            Usuario
+        </td>
+        <td>
+            Email
+        </td>
+        <td>
+            Habilitado
+        </td>
+        <td>
+            Rol Id
+        </td>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.UserName</td>
+            <td>@item.EmailAddress</td>
+            <td>@item.Enabled</td>
+            <td>@item.RolRefId</td>
+        </tr>
+    }
+</table>

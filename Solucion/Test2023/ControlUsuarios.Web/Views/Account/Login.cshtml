@@ -1,0 +1,22 @@
+@model ControlUsuarios.Web.Models.LoginVm
+
+@{
+    Layout = "_Layout";
+}
+
+<form method="POST">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group">
+                <label asp-for="UserName">Usuario</label>
+                <input type="text" class="form-control" asp-for="UserName" placeholder="Usuario" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Password">Password</label>
+                <input class="form-control" asp-for="Password" placeholder="Password" type="password" />
+            </div>
+            <button class="btn btn-primary" type="submit">Login</button>
+            <a asp-area="" asp-controller="Account" asp-action="Register">Registrar</a>
+        </div>
+    </div>
+</form>
